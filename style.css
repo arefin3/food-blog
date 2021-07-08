@@ -35,3 +35,51 @@ h1{
     padding-left: 20%;
     padding-right: 20%;
 }
+.items{
+    box-shadow: 10px 10px 20px gray;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 30px;
+}
+.position{
+    width: 80%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20%;
+    border-radius: 10px;
+}
+.item1{
+    box-shadow: 10px 10px 20px gray;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 30px;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    border:0px;
+}
+#adjust{
+    font-size: 30px;
+}
+#adjust1{
+    color: gray;
+}
+#adjust2{
+    color: white;
+}
+#sub1{
+    text-align: left;
+}
+#sub2{
+    text-align: center;
+}
+#sub3{
+    text-align: right;
+}
